@@ -1,6 +1,10 @@
 {
     "name": "dubcanada/idiorm",
+    "description": "idiorm",
     "require": {
         "php": ">=5.2.0"
+    },
+    "autoload": {
+        "files": ["idiorm.php"]
     }
 }
