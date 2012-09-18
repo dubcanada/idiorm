@@ -1,0 +1,6 @@
+{
+    "name": "dubcanada/idiorm",
+    "require": {
+        "php": ">=5.2.0"
+    }
+}
